@@ -44,7 +44,7 @@ class PrecosController extends Controller
         $regras =[
             'tipo'=> 'required|min:2|max:100',
             'coleta'=>'required',
-            'nome'=>'required|min:4|max:150',
+           // 'nome'=>'required|min:4|max:150',
             'precov'=>'required',
         ];
 
@@ -99,7 +99,6 @@ class PrecosController extends Controller
         $regras =[
             'tipo'=> 'required|min:2|max:100',
             'coleta'=>'required',
-            'nome'=>'required|min:4|max:150',
             'precov'=>'required',
         ];
 

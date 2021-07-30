@@ -1,7 +1,7 @@
 @extends('layouts.app');
 
 @section('titulo1')
-    Editar Preço: 
+    Cadastrar Preço: 
 @endsection
 @section('conteudo')
 <br>

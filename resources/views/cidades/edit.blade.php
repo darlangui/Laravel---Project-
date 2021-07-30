@@ -1,7 +1,7 @@
 @extends('layouts.app');
 
 @section('titulo1')
-    Cadastrar Cidade: 
+    Editar Cidade: 
 @endsection
 
 @section('conteudo')
